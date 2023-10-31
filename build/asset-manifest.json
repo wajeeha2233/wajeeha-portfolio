@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/static/css/main.488497cb.css",
+    "main.js": "/static/js/main.a69d1ec8.js",
+    "static/js/377.738b5e04.chunk.js": "/static/js/377.738b5e04.chunk.js",
+    "static/media/about.png": "/static/media/about.c62d31b3d42efcdeba5f.png",
+    "static/media/home-bg.png": "/static/media/home-bg.e5ab53e626cc0b9b6f39.png",
+    "static/media/artisteeA.png": "/static/media/artisteeA.f3d4cb18fd2cbb86c7c9.png",
+    "static/media/artisteeF.png": "/static/media/artisteeF.9df5f1c2d990693c1b3d.png",
+    "static/media/easy-code.png": "/static/media/easy-code.e8fe945f0d6e0fcc155c.png",
+    "static/media/E-com.png": "/static/media/E-com.652bd011f280ef9ca665.png",
+    "static/media/Wajeeha baig (1).pdf": "/static/media/Wajeeha baig (1).01707d5f323112fa72ba.pdf",
+    "static/media/jsomBlog.png": "/static/media/jsomBlog.94e64b2da457909bf52d.png",
+    "static/media/Taskify.png": "/static/media/Taskify.c01e7b8573bcb4475ea3.png",
+    "service-worker.js": "/service-worker.js",
+    "index.html": "/index.html",
+    "main.488497cb.css.map": "/static/css/main.488497cb.css.map",
+    "main.a69d1ec8.js.map": "/static/js/main.a69d1ec8.js.map",
+    "377.738b5e04.chunk.js.map": "/static/js/377.738b5e04.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.488497cb.css",
+    "static/js/main.a69d1ec8.js"
+  ]
+}

@@ -1,0 +1,13 @@
+{
+    "version": 2,
+    "builds": [
+      {
+        "src": "package.json",
+        "use": "@vercel/node@18"
+      }
+    ],
+    "env": {
+      "MY_CUSTOM_ENV_VAR": "your-value-here"
+    }
+  }
+  
